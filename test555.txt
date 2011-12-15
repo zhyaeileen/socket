@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wqeqweqweqwqwe
+=======
+wqeqweqweqweqwe
+>>>>>>> 44c28dcf19d4203c73e402b8ff0c519f5e22e86d
