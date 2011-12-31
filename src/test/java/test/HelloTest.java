@@ -1,14 +1,15 @@
 package test;
 
-import static org.junit.Assert.*;
+import junit.framework.Assert;
 
 import org.junit.Test;
 
 public class HelloTest {
 
 	@Test
-	public void testSayHello() {
-		fail("Not yet implemented");
+	public void testSayHello() throws Exception {
+		Hello hello = new Hello();
+		Assert.assertEquals("hello", hello.sayHello());
 	}
 
 }
