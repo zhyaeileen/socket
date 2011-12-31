@@ -9,7 +9,7 @@ public class HelloTest {
 	@Test
 	public void testSayHello() throws Exception {
 		Hello hello = new Hello();
-		Assert.assertEquals("hello", hello.sayHello());
+		Assert.assertEquals("hel", hello.sayHello());
 	}
 
 }
